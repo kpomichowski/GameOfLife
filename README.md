@@ -80,5 +80,5 @@ Project was built upon following libraries:
 * `# generations` = 5000,
 * `grid_size` = 100;
 
-
+![GameOfLife Example](https://github.com/kpomichowski/GameOfLife/blob/master/example/output.gif)
 
